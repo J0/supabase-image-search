@@ -53,8 +53,8 @@ $function$
 
 ## Endpoints (WIP)
 
-- `generate_embeddings` 
-- `query_image`
+- `/embeddings` 
+- `/query`
 
 
 ## Possible Future Extensions
@@ -63,3 +63,4 @@ $function$
 - [ ] Make use of Locality Sensitive Hashing
 - [ ] Make use of text embeddings via CLIP to allow image querying based on text
 - [ ] Find a loose evaluation metric against other methods of image recommendation.
+- [ ] Allow uploads via method other than UI
